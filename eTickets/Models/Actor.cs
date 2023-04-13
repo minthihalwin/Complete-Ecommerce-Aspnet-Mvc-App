@@ -3,9 +3,9 @@ namespace eTickets.Models
 {
 	public class Actor
 	{
-		public Actor()
-		{
-		}
+	
+		public int Id { get; set; }
+
 	}
 }
 
